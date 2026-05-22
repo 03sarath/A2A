@@ -1,0 +1,13 @@
+# Flask app (UI → deployed Vertex AI agent)
+flask
+python-dotenv
+google-cloud-aiplatform[agent_engines]
+
+# Notebook + deployment only
+google-adk==1.9.0
+google-genai
+nest_asyncio
+
+# Tests
+pytest
+pytest-asyncio
