@@ -10,3 +10,4 @@ venv/
 tests/
 .pytest_cache/
 .benchmarks/
+app/
